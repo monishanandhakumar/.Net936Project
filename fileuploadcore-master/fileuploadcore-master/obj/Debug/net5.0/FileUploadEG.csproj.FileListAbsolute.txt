@@ -1,0 +1,58 @@
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\appsettings.Development.json
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\appsettings.json
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\FileUploadEG.exe
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\FileUploadEG.deps.json
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\FileUploadEG.runtimeconfig.json
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\FileUploadEG.runtimeconfig.dev.json
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\FileUploadEG.dll
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\ref\FileUploadEG.dll
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\FileUploadEG.pdb
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Learnings\ASP.NET Core\FileUploadEG\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.csprojAssemblyReference.cache
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.GeneratedMSBuildEditorConfig.editorconfig
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.AssemblyInfoInputs.cache
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.AssemblyInfo.cs
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.csproj.CoreCompileInputs.cache
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.MvcApplicationPartsAssemblyInfo.cs
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.MvcApplicationPartsAssemblyInfo.cache
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\staticwebassets\FileUploadEG.StaticWebAssets.Manifest.cache
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\staticwebassets\FileUploadEG.StaticWebAssets.xml
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\scopedcss\bundle\FileUploadEG.styles.css
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.RazorTargetAssemblyInfo.cache
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.csproj.CopyComplete
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.dll
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\ref\FileUploadEG.dll
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.pdb
+H:\Learnings\ASP.NET Core\FileUploadEG\obj\Debug\net5.0\FileUploadEG.genruntimeconfig.cache
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\appsettings.json
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\FileUploadEG.exe
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\FileUploadEG.deps.json
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\FileUploadEG.runtimeconfig.json
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\FileUploadEG.runtimeconfig.dev.json
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\FileUploadEG.dll
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\ref\FileUploadEG.dll
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\FileUploadEG.pdb
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.csprojAssemblyReference.cache
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.AssemblyInfoInputs.cache
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.AssemblyInfo.cs
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.csproj.CoreCompileInputs.cache
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\staticwebassets\FileUploadEG.StaticWebAssets.Manifest.cache
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\staticwebassets\FileUploadEG.StaticWebAssets.xml
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\scopedcss\bundle\FileUploadEG.styles.css
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.RazorTargetAssemblyInfo.cache
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.csproj.CopyComplete
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.dll
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\ref\FileUploadEG.dll
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.pdb
+C:\Users\MonishaDevi\Downloads\fileuploadcore-master\fileuploadcore-master\obj\Debug\net5.0\FileUploadEG.genruntimeconfig.cache
